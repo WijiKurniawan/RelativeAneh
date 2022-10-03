@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Relative Aneh</string>
+    <string-array name="arr_kemungkinan">
+        <item>Benar</item>
+        <item>Mungkin salah</item>
+        <item>Salah</item>
+    </string-array>
 </resources>
